@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<suite name="Suite1">
+
+
+    <test name="Test">
+        <classes>
+            <class name="BaseTest"/>
+            <class name="HomePageTest"/>
+            <class name="CareerPageTest"/>
+            <class name="ListJobPageTest"/>
+            <class name="QualityAssurancePageTest"/>
+
+
+
+
+        </classes>
+    </test>
+
+
+</suite>
