@@ -22,23 +22,8 @@ Bu proje, web sitesinin kariyer sayfası üzerinde otomatikleştirilmiş UI test
 
 ## 🗂 Proje Yapısı
 
-├── pom.xml
-├── src
-│ ├── main
-│ │ └── java
-│ │ └── Pages
-│ │ ├── BasePage.java
-│ │ ├── CareerPage.java
-│ │ ├── HomePage.java
-│ │ ├── ListJobPage.java
-│ │ └── QualityAssurancePage.java
-│ └── test
-│ └── java
-│ ├── BaseTest.java
-│ ├── CareerPageTest.java
-│ ├── HomePageTest.java
-│ ├── ListJobPageTest.java
-│ └── QualityAssurancePageTest.java
+<img width="312" alt="Screenshot 2025-06-16 at 03 21 11" src="https://github.com/user-attachments/assets/64c37925-d39d-4ba5-aa47-7c5a7324cdf2" />
+
 
 ## ▶️ Projeyi Çalıştırma
 
