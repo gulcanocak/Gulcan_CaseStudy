@@ -1,4 +1,3 @@
-<img width="312" alt="Screenshot 2025-06-16 at 03 21 11" src="https://github.com/user-attachments/assets/75389c30-a8e3-4247-89a9-c9975a3184b5" />
 # 🧪  Kariyer Sayfası Test Otomasyon Projesi
 
 Bu proje, web sitesinin kariyer sayfası üzerinde otomatikleştirilmiş UI testlerini gerçekleştirmek amacıyla geliştirilmiştir. Selenium WebDriver ve TestNG kullanılarak, sayfa nesne modeli (Page Object Model - POM) mimarisiyle yazılmıştır.
